@@ -1,0 +1,6 @@
+int x;
+float z;
+if(x > 1
+{
+  z = z + a;
+}
